@@ -1,4 +1,4 @@
-# Install Scramjet
+# Install Bare & Wisp
 
 This guide will help you set up /bare/ and /wisp/
 
