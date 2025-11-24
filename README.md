@@ -4,6 +4,10 @@ This guide will help you set up /bare/ and /wisp/
 
 ---
 
+## Useful Combinations
+ctrl+x - Exit
+ctrl+o - Save
+
 ## Step 1. Install Dependencies
 
 Make sure you have **Git**, **Node.js**, **npm**, and **PM2** installed.
